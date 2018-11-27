@@ -23,7 +23,7 @@
   "homepage": "https://github.com/alxlu/CloudAppX-cli#readme",
   "preferGlobal": true,
   "dependencies": {
-    "archiver": "^0.14.4",
+    "archiver": "^3.0.0",
     "commander": "^2.8.1",
     "q": "^1.4.1",
     "request": "^2.58.0"
